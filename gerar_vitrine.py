@@ -95,7 +95,7 @@ footer{display:flex;flex-direction:column;gap:6px;font-size:12.5px;color:var(--a
   <nav class="temas" id="temas" aria-label="Temas"></nav>
   <section class="arara" id="arara" aria-live="polite"></section>
   <footer>
-    <span>Preço visto na data indicada; a loja pode mudar. Os links são de afiliado: a loja me paga uma comissão e você paga o mesmo preço. Como Associado da Amazon, ganho com compras qualificadas.</span>
+    <span>Os links são de afiliado: a loja me paga uma comissão e você paga o mesmo preço. Como Associado da Amazon, ganho com compras qualificadas.</span>
     <span>@luvalaranja no Instagram</span>
   </footer>
 </div>
@@ -113,8 +113,8 @@ function item(p){
   const esg=p.status==="esgotado";
   const foto=esg?el("div",{class:"foto"},el("img",{src:p.thumb,alt:p.nome,loading:"lazy",width:"600",height:"750"}),el("span",{class:"tag"},p.codigo))
     :el("a",{class:"foto",href:p.link,target:"_blank",rel:"noopener sponsored","aria-label":p.nome+" "+lojaTxt(p.loja)},el("img",{src:p.thumb,alt:p.nome,loading:"lazy",width:"600",height:"750"}),el("span",{class:"tag"},p.codigo));
-  const preco=p.preco?el("div",{class:"preco"},el("b",{},p.preco),p.de?el("s",{},p.de):null):null;
-  const quando=p.preco?el("span",{class:"quando"},"visto em "+(p.data_preco||"")):el("span",{class:"quando"},"Preço no anúncio");
+  const preco=null; // sem preço no site desde 18/11 (decisão do Ramon): o preço fica no anúncio
+  const quando=p.detalhe?el("span",{class:"quando"},p.detalhe):null;
   const acao=esg?el("span",{class:"sem"},"Esgotado ou pausado na loja"):el("a",{class:"ir",href:p.link,target:"_blank",rel:"noopener sponsored"},"Ver "+lojaTxt(p.loja));
   return el("article",{class:"item"+(esg?" esgotado":""),id:p.codigo},foto,el("h2",{class:"nome"},p.nome),preco,quando,acao);
 }

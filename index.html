@@ -45,6 +45,7 @@ nav.temas button:focus-visible{outline:2px solid var(--laranja);outline-offset:3
 .item{display:flex;flex-direction:column;gap:8px;min-width:0;scroll-margin-top:24px}
 .foto{position:relative;display:block;aspect-ratio:4/5;max-width:100%;background:var(--cafe-2);border-radius:3px;overflow:visible}
 .foto img{width:100%;height:100%;object-fit:cover;border-radius:3px;display:block}
+a.foto:focus-visible{outline:2px solid var(--laranja);outline-offset:3px}
 .tag{position:absolute;left:-6px;bottom:14px;display:flex;align-items:center;gap:8px;background:var(--laranja);color:var(--creme);padding:6px 12px 6px 22px;clip-path:polygon(12px 0,100% 0,100% 100%,12px 100%,0 50%);font:700 19px/1 var(--versal);letter-spacing:.05em;transform-origin:0 50%}
 .tag::before{content:"";position:absolute;left:10px;top:50%;width:6px;height:6px;margin-top:-3px;border-radius:50%;background:var(--creme)}
 .nome{margin:0;font:600 19px/1.15 var(--serif);text-wrap:balance}
@@ -91,7 +92,8 @@ for(const t of temas){const b=el("button",{type:"button",id:"tema-"+norm(t),"ari
 const lojaTxt=l=>l==="Mercado Livre"?"no Mercado Livre":l==="Shopee"?"na Shopee":l==="Amazon"?"na Amazon":"na loja";
 function item(p){
   const esg=p.status==="esgotado";
-  const foto=el("div",{class:"foto"},el("img",{src:p.thumb,alt:p.nome,loading:"lazy",width:"600",height:"750"}),el("span",{class:"tag"},p.codigo));
+  const foto=esg?el("div",{class:"foto"},el("img",{src:p.thumb,alt:p.nome,loading:"lazy",width:"600",height:"750"}),el("span",{class:"tag"},p.codigo))
+    :el("a",{class:"foto",href:p.link,target:"_blank",rel:"noopener sponsored","aria-label":p.nome+" "+lojaTxt(p.loja)},el("img",{src:p.thumb,alt:p.nome,loading:"lazy",width:"600",height:"750"}),el("span",{class:"tag"},p.codigo));
   const preco=p.preco?el("div",{class:"preco"},el("b",{},p.preco),p.de?el("s",{},p.de):null):null;
   const quando=p.preco?el("span",{class:"quando"},"visto em "+(p.data_preco||"")):el("span",{class:"quando"},"Preço no anúncio");
   const acao=esg?el("span",{class:"sem"},"Esgotado ou pausado na loja"):el("a",{class:"ir",href:p.link,target:"_blank",rel:"noopener sponsored"},"Ver "+lojaTxt(p.loja));

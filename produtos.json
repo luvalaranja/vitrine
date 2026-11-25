@@ -12,7 +12,10 @@
   "detalhe": "aço carbono · 13,5 cm",
   "link": "https://meli.la/1v6H93m",
   "status": "ativo",
-  "thumb": "fotos/MP01.jpg"
+  "thumb": "fotos/MP01.jpg",
+  "temas": [
+   "Natal"
+  ]
  },
  {
   "codigo": "MP02",
@@ -27,7 +30,10 @@
   "detalhe": "12 peças · R$ 6,38 cada",
   "link": "https://meli.la/1CsfhAL",
   "status": "ativo",
-  "thumb": "fotos/MP02.jpg"
+  "thumb": "fotos/MP02.jpg",
+  "temas": [
+   "Natal"
+  ]
  },
  {
   "codigo": "MP03",
@@ -42,7 +48,10 @@
   "detalhe": "bambu · 21,5 cm de base · 23 cm de altura",
   "link": "https://meli.la/1UNg2XW",
   "status": "ativo",
-  "thumb": "fotos/MP03.jpg"
+  "thumb": "fotos/MP03.jpg",
+  "temas": [
+   "Natal"
+  ]
  },
  {
   "codigo": "MP04",
@@ -57,7 +66,10 @@
   "detalhe": "1,6 L · loja oficial",
   "link": "https://meli.la/13YhbHq",
   "status": "ativo",
-  "thumb": "fotos/MP04.jpg"
+  "thumb": "fotos/MP04.jpg",
+  "temas": [
+   "Natal"
+  ]
  },
  {
   "codigo": "PS01",
@@ -132,7 +144,10 @@
   "detalhe": "jogo com 6 copos",
   "link": "https://meli.la/1jW1j2d",
   "status": "ativo",
-  "thumb": "fotos/CZ01.jpg"
+  "thumb": "fotos/CZ01.jpg",
+  "temas": [
+   "Mesa posta"
+  ]
  },
  {
   "codigo": "CZ02",
@@ -147,7 +162,11 @@
   "detalhe": "canelada · alça de madeira",
   "link": "https://meli.la/1D6v1B2",
   "status": "ativo",
-  "thumb": "fotos/CZ02.jpg"
+  "thumb": "fotos/CZ02.jpg",
+  "temas": [
+   "Mesa posta",
+   "Presentes"
+  ]
  },
  {
   "codigo": "CZ03",
@@ -162,7 +181,11 @@
   "detalhe": "com pires · flores amarelas",
   "link": "https://meli.la/1qXY73V",
   "status": "ativo",
-  "thumb": "fotos/CZ03.jpg"
+  "thumb": "fotos/CZ03.jpg",
+  "temas": [
+   "Mesa posta",
+   "Presentes"
+  ]
  },
  {
   "codigo": "CZ04",
@@ -177,7 +200,10 @@
   "detalhe": "Tramontina Búzios · inox",
   "link": "https://meli.la/2vXACLK",
   "status": "ativo",
-  "thumb": "fotos/CZ04.jpg"
+  "thumb": "fotos/CZ04.jpg",
+  "temas": [
+   "Mesa posta"
+  ]
  },
  {
   "codigo": "CZ05",
@@ -207,7 +233,10 @@
   "detalhe": "Starhouse · tampa 4 travas",
   "link": "https://meli.la/1uxvGj4",
   "status": "ativo",
-  "thumb": "fotos/CZ06.jpg"
+  "thumb": "fotos/CZ06.jpg",
+  "temas": [
+   "Organização"
+  ]
  },
  {
   "codigo": "NT01",
@@ -222,7 +251,10 @@
   "detalhe": "270 cm · 300 galhos · moldável",
   "link": "https://meli.la/2NenF28",
   "status": "ativo",
-  "thumb": "fotos/NT01.jpg"
+  "thumb": "fotos/NT01.jpg",
+  "temas": [
+   "Decoração"
+  ]
  },
  {
   "codigo": "SL01",
@@ -237,7 +269,11 @@
   "detalhe": "bandeja retangular toda espelhada",
   "link": "https://meli.la/14XT1XF",
   "status": "ativo",
-  "thumb": "fotos/SL01.jpg"
+  "thumb": "fotos/SL01.jpg",
+  "temas": [
+   "Decoração",
+   "Presentes"
+  ]
  },
  {
   "codigo": "PR01",
@@ -267,7 +303,10 @@
   "detalhe": "12 peças em silicone com cabo de madeira",
   "link": "https://amzn.to/4t1glGO",
   "status": "ativo",
-  "thumb": "fotos/CZ07.jpg"
+  "thumb": "fotos/CZ07.jpg",
+  "temas": [
+   "Presentes"
+  ]
  },
  {
   "codigo": "PR02",
@@ -282,7 +321,10 @@
   "detalhe": "preso no vidro do box por ventosas",
   "link": "https://meli.la/2cneYZQ",
   "status": "ativo",
-  "thumb": "fotos/PR02.jpg"
+  "thumb": "fotos/PR02.jpg",
+  "temas": [
+   "Banheiro"
+  ]
  },
  {
   "codigo": "PR03",
@@ -372,7 +414,10 @@
   "detalhe": "com alças para gel",
   "link": "https://meli.la/16PEbrd",
   "status": "ativo",
-  "thumb": "fotos/OT01.jpg"
+  "thumb": "fotos/OT01.jpg",
+  "temas": [
+   "Presentes"
+  ]
  },
  {
   "codigo": "OT02",
@@ -387,7 +432,10 @@
   "detalhe": "corrida, triathlon e bike",
   "link": "https://meli.la/18Q9J2r",
   "status": "ativo",
-  "thumb": "fotos/OT02.jpg"
+  "thumb": "fotos/OT02.jpg",
+  "temas": [
+   "Presentes"
+  ]
  },
  {
   "codigo": "NT02",
@@ -402,7 +450,11 @@
   "detalhe": "300 LEDs · 3 x 3 m · USB com controle",
   "link": "https://meli.la/1yf3gPk",
   "status": "ativo",
-  "thumb": "fotos/NT02.jpg"
+  "thumb": "fotos/NT02.jpg",
+  "temas": [
+   "Decoração",
+   "Quarto"
+  ]
  },
  {
   "codigo": "VR01",
@@ -417,7 +469,11 @@
   "detalhe": "150 W",
   "link": "https://meli.la/2MTD9a5",
   "status": "ativo",
-  "thumb": "fotos/VR01.jpg"
+  "thumb": "fotos/VR01.jpg",
+  "temas": [
+   "Sala",
+   "Quarto"
+  ]
  },
  {
   "codigo": "CZ08",
@@ -432,7 +488,10 @@
   "detalhe": "4,2 litros · cor baunilha",
   "link": "https://meli.la/2vadofa",
   "status": "ativo",
-  "thumb": "fotos/CZ08.jpg"
+  "thumb": "fotos/CZ08.jpg",
+  "temas": [
+   "Presentes"
+  ]
  },
  {
   "codigo": "OT03",
@@ -447,7 +506,11 @@
   "detalhe": "controle remoto · 6 velocidades",
   "link": "https://meli.la/16X8Ubr",
   "status": "ativo",
-  "thumb": "fotos/OT03.jpg"
+  "thumb": "fotos/OT03.jpg",
+  "temas": [
+   "Quarto",
+   "Sala"
+  ]
  },
  {
   "codigo": "VR02",
@@ -462,7 +525,11 @@
   "detalhe": "de mesa, com Bluetooth",
   "link": "https://meli.la/2UPNcca",
   "status": "ativo",
-  "thumb": "fotos/VR02.jpg"
+  "thumb": "fotos/VR02.jpg",
+  "temas": [
+   "Sala",
+   "Quarto"
+  ]
  },
  {
   "codigo": "OT04",
@@ -492,7 +559,11 @@
   "detalhe": "smart speaker · preto",
   "link": "https://meli.la/1A7VdFm",
   "status": "ativo",
-  "thumb": "fotos/VZ01.jpg"
+  "thumb": "fotos/VZ01.jpg",
+  "temas": [
+   "Presentes",
+   "Sala"
+  ]
  },
  {
   "codigo": "SL02",
@@ -507,7 +578,10 @@
   "detalhe": "50 polegadas · 4K · Roku",
   "link": "https://meli.la/1cfJSPC",
   "status": "ativo",
-  "thumb": "fotos/SL02.jpg"
+  "thumb": "fotos/SL02.jpg",
+  "temas": [
+   "Quarto"
+  ]
  },
  {
   "codigo": "PS05",
@@ -582,7 +656,10 @@
   "detalhe": "12 peças com porta-utensílios",
   "link": "https://meli.la/1UhRNCF",
   "status": "ativo",
-  "thumb": "fotos/CZ09.jpg"
+  "thumb": "fotos/CZ09.jpg",
+  "temas": [
+   "Presentes"
+  ]
  },
  {
   "codigo": "NT03",
@@ -597,7 +674,10 @@
   "detalhe": "100 LEDs coloridos · 10 m · 8 funções",
   "link": "https://meli.la/1vjsKjS",
   "status": "ativo",
-  "thumb": "fotos/NT03.jpg"
+  "thumb": "fotos/NT03.jpg",
+  "temas": [
+   "Decoração"
+  ]
  },
  {
   "codigo": "DC01",
@@ -612,7 +692,10 @@
   "detalhe": "6 vasinhos com planta artificial",
   "link": "https://meli.la/2uH2Gvu",
   "status": "ativo",
-  "thumb": "fotos/DC01.jpg"
+  "thumb": "fotos/DC01.jpg",
+  "temas": [
+   "Sala"
+  ]
  },
  {
   "codigo": "CZ10",
@@ -627,7 +710,10 @@
   "detalhe": "5 potes de vidro · tampa de bambu",
   "link": "https://meli.la/1MMP34H",
   "status": "ativo",
-  "thumb": "fotos/CZ10.jpg"
+  "thumb": "fotos/CZ10.jpg",
+  "temas": [
+   "Organização"
+  ]
  },
  {
   "codigo": "DC02",
@@ -642,7 +728,10 @@
   "detalhe": "malha spandex para cadeira de jantar",
   "link": "https://meli.la/15fZkt6",
   "status": "ativo",
-  "thumb": "fotos/DC02.jpg"
+  "thumb": "fotos/DC02.jpg",
+  "temas": [
+   "Mesa posta"
+  ]
  },
  {
   "codigo": "NT04",
@@ -657,7 +746,10 @@
   "detalhe": "lisas, foscas e glitter · com ponteira",
   "link": "https://meli.la/2CYTQGd",
   "status": "ativo",
-  "thumb": "fotos/NT04.jpg"
+  "thumb": "fotos/NT04.jpg",
+  "temas": [
+   "Decoração"
+  ]
  },
  {
   "codigo": "QT01",
@@ -672,7 +764,10 @@
   "detalhe": "escurece e retém o calor",
   "link": "https://meli.la/1zSJztP",
   "status": "ativo",
-  "thumb": "fotos/QT01.jpg"
+  "thumb": "fotos/QT01.jpg",
+  "temas": [
+   "Sala"
+  ]
  },
  {
   "codigo": "MP05",
@@ -687,7 +782,11 @@
   "detalhe": "pratos, taças e talheres",
   "link": "https://meli.la/1gfTbqP",
   "status": "ativo",
-  "thumb": "fotos/MP05.jpg"
+  "thumb": "fotos/MP05.jpg",
+  "temas": [
+   "Natal",
+   "Presentes"
+  ]
  },
  {
   "codigo": "DC03",
@@ -702,7 +801,11 @@
   "detalhe": "oval · 100 x 40 cm",
   "link": "https://meli.la/2yQHrb4",
   "status": "ativo",
-  "thumb": "fotos/DC03.jpg"
+  "thumb": "fotos/DC03.jpg",
+  "temas": [
+   "Quarto",
+   "Sala"
+  ]
  },
  {
   "codigo": "NT05",
@@ -717,6 +820,10 @@
   "detalhe": "1,80 m · 540 galhos",
   "link": "https://meli.la/2UWeBPX",
   "status": "ativo",
-  "thumb": "fotos/NT05.jpg"
+  "thumb": "fotos/NT05.jpg",
+  "temas": [
+   "Decoração",
+   "Sala"
+  ]
  }
 ]

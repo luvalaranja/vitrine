@@ -825,5 +825,74 @@
    "Decoração",
    "Sala"
   ]
+ },
+ {
+  "codigo": "OR01",
+  "nome": "Fita dupla face nano 6 m",
+  "tema": "Organização",
+  "carrossel": "2026-11-27-organizacao",
+  "data": "2026-11-27",
+  "loja": "Mercado Livre",
+  "preco": "R$ 19,99",
+  "de": "R$ 25,90",
+  "data_preco": "25/11",
+  "detalhe": "Fita transparente extra forte · 6 metros",
+  "link": "https://meli.la/25HKKSk",
+  "status": "ativo",
+  "thumb": "fotos/OR01.jpg"
+ },
+ {
+  "codigo": "OR02",
+  "nome": "Cesto organizador de algodão",
+  "tema": "Organização",
+  "temas": [
+   "Banheiro"
+  ],
+  "carrossel": "2026-11-27-organizacao",
+  "data": "2026-11-27",
+  "loja": "Mercado Livre",
+  "preco": "R$ 31,23",
+  "de": "R$ 43,90",
+  "data_preco": "25/11",
+  "detalhe": "Algodão trançado com alças de couro",
+  "link": "https://meli.la/1YtsVsw",
+  "status": "ativo",
+  "thumb": "fotos/OR02.jpg"
+ },
+ {
+  "codigo": "OR03",
+  "nome": "Kit 5 organizadores de armário",
+  "tema": "Organização",
+  "temas": [
+   "Cozinha"
+  ],
+  "carrossel": "2026-11-27-organizacao",
+  "data": "2026-11-27",
+  "loja": "Mercado Livre",
+  "preco": "R$ 99,79",
+  "de": "R$ 135,01",
+  "data_preco": "25/11",
+  "detalhe": "Kit com 5 organizadores para armário",
+  "link": "https://meli.la/2jGaCd7",
+  "status": "ativo",
+  "thumb": "fotos/OR03.jpg"
+ },
+ {
+  "codigo": "OR04",
+  "nome": "Robô aspirador WAP W200",
+  "tema": "Organização",
+  "temas": [
+   "Presentes"
+  ],
+  "carrossel": "2026-11-27-organizacao",
+  "data": "2026-11-27",
+  "loja": "Mercado Livre",
+  "preco": "R$ 519,99",
+  "de": "R$ 699,99",
+  "data_preco": "25/11",
+  "detalhe": "Varre, aspira e passa pano · bivolt",
+  "link": "https://meli.la/11DG1Qj",
+  "status": "ativo",
+  "thumb": "fotos/OR04.jpg"
  }
 ]
